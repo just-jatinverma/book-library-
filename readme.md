@@ -13,7 +13,7 @@ This is a simple Book Library web application that allows users to browse books,
 
 ## 🚀 Live Demo
 
-[Click here to check it out!](https://chicodelib.netlify.app/)
+[Click here to check it out!]((https://freeapilib.netlify.app/))
 
 ## Technologies Used
 
