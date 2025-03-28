@@ -11,6 +11,10 @@ This is a simple Book Library web application that allows users to browse books,
 - Infinite scrolling to load more books dynamically
 - Clickable book items that redirect to more details
 
+## 🚀 Live Demo
+
+[Click here to check it out!](https://chicodelib.netlify.app/)
+
 ## Technologies Used
 
 - HTML
